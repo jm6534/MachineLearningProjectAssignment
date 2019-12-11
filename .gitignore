@@ -45,3 +45,4 @@ geckodriver.log
 
 *.png
 *.zip
+*.npy
